@@ -2,7 +2,7 @@ Getting-and-Cleaning-Data-Project
 =================================
 
 
-This repository contains the script run_analysis.R, which analyzes the supplied datasets and CodeBook.md, which describes the transformations performed on the datasets and describes the tidy dataset.
+This repository contains the script run_analysis.R, which analyzes the supplied datasets.
 
 ##The script run_analysis.R
 The script run_analysis.R does the following:
